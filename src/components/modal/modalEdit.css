@@ -1,0 +1,12 @@
+.modal-edit{
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    margin-top: 100px;
+    border: 1px solid red;
+}
+.modal-edit>form{
+    display: flex;
+    padding: 20px;
+    background-color: white;
+}

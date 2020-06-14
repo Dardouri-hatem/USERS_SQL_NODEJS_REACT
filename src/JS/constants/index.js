@@ -1,0 +1,16 @@
+// Error Reducer
+export const CLEAR_ERRORS = "CLEAR_ERRORS"
+export const GET_ERRORS = "GET_ERRORS"
+
+//users Reducer 
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS"
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS" 
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS"
+// users CRUD
+export const GET_USERS_SUCCESS = "GET_USERS_SUCCESS"
+export const GET_USERS_FAIL = "GET_USERS_FAIL"
+
+export const DELET_USER_SUCCESS = "DELET_USER_SUCCESS"
+export const DELET_USER_FAIL = "DELET_USER_FAIL"
+
+export const UPDATE_SUCCESS="UPDATE_SUCCESS"
